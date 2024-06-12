@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-terraform-test-424003",
+  "private_key_id": "2e7114596a439c0ba7793d68be1b7b3673c65bce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY325U9i1Ohck2\ndIeIneo0sNxcXNsjbuUB2L9eAZs6jmviGwV6+nrHoq/reahp4vOtF7wbz8TDPWKK\nR0J62++0zmqLRwk9hxga7urj7L5MoA71ZcufU4vBTWdAd+AGKL5ixe2ri0+O6gYV\ne1JP7FzcIY2d87M0hsWo1TIO4mokgVLCQSrRDKC461ThRqivcZ34jiV88qtjxngH\nDeqc9e+uwYiY6lo/6pR8lAYxkuugM3A7Vky7tKYjW2Ko34hugK6unRLf0qZXRydN\nIIFfoMdCiroF/0kgeRJeEH67DgzIRWQfTy997OWRMfZNPv0Padn2mR2t8YL4NkM8\nIKmG+vTxAgMBAAECggEABNlxKWIGAyEMjXmBLglTCZOi6P9g2je6u3RR5GqToPYR\nEe23Zdg9RPOc0nR/rhyn4W4sQu8mDSAiNQsRUIehqEV7V6NhLn5PiLj3Kf6QEbkx\n3oEV/zp72UiMBY89Q8EykHU6Hc6Vdo31XjncMogScOupHchQcSfXT+IJOsH6e6iz\nHckA6pGHQqqD3PLdpcadavUgp1/nY55irflQ8st2o0kHfp8aziQm6Q4HDzUeIqGC\nJr/A8LKimlHWzj9uIw/znyOPWxzeCCVg7enLZmLOV3IscVbl+euPyiIgLwRUsRWI\noS/r/oE/Rqtv6dAJGeg1Mr+anZ78If8Pq08ei7tzmwKBgQDKVBNsy9N+v+zWFq9K\n9u9AYnQZw5erEg+V521yu9MN8j9NH4Acgf7O1apbKn2g5CeWIsEObFaPHAR2n0IF\nmIPrNebXHoNvGt7oFreuNfjFlFJaDTwIcAnB9Qq5DTELiycPKKWKIP6MDcaNVH96\nCiUR8CSjTlKLCe2PxBFV/5IV9wKBgQDBbN72hNKspsyBAWhzqcTDApT8nmF+wpQy\nTfuE1+Jg8yX66P6UFkkefD0pvk52L5MNNw7Y/ieXUzGYaIpXx3BsbZ0glqQ5yTpo\nxTW+uEm1Xxns3nUyundMluVD8Okygwbt+mQ9zFCtFJ2ghJDFPhD5fdltktImSArb\nm55UXH7yVwKBgApdJiWTh0Dd2ebZgJ8paPX2VRYgw7sakLvP//Y5ksULHJz5uRk8\nu22i2jgTRB4isbhqDVOMzx5DhCMDY2Ff/5njx/BK+taNHM/sofoFf7m3MES2mtWf\nz5Ak2ijCeTmrJhQLs/cQW5mW9w20P1dj/6QclfPbhjTjDE0p8O1jyvrfAoGAWwnh\nD2qIthZz3qxI+1eGcrq+YQAypzTyB5NItMfflv4afDQ5zn2GwMB9ES6vQ1U1A11M\nsbk97S2NBE0AADywn3ggInyEo2YhBbr8ht26Y5F1ZFV4F/5HtFa5Zfb363xcQJo/\noA6QUkaHwkti0FNcLfGb6sTWAIqcAa0HInG+llUCgYBgAFERLiRLGcq/5pnpZWvG\nlbesymlBJ8ehx/9xa0W2yJkNUMObaWHieIgMF7n/6xbw+9QqqUH3/porMqGGIvcT\nPcpWdxUB5GVNQpYAjHfQGTdQ6UbsVldA2nokkryBCARKZDMdMOHVnnjJ/m+3f1XJ\nAdr0+Hox19MwvLmzWeuIcQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "freecodecamp-terraform@gcp-terraform-test-424003.iam.gserviceaccount.com",
+  "client_id": "103672903240761997081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/freecodecamp-terraform%40gcp-terraform-test-424003.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
