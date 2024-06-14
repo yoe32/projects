@@ -1,0 +1,77 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración específicos del sistema
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+.vscode/
+
+# Archivos de caché de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos y carpetas de compilación
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de logs
+*.log
+
+# Archivos de paquetes de Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Archivos de distribución de Python
+*.pyd
+*.whl
+
+# Archivos de metadatos de instalación de Python
+*.installed.cfg
+*.egg-info/
+.installed.cfg
+
+# Archivos de configuración de pytest
+.cache/
+.pytest_cache/
+
+# Archivos de cobertura de pruebas
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos de configuración de editor
+.idea/
+.vscode/
+*.tmproj
+.project
+
+# Archivos y carpetas de documentos
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
