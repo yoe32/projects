@@ -56,6 +56,7 @@ def format_last_update(data):
         errors='coerce'
         ).dt.strftime('%d-%m-%Y %I:%M %p')
 
+
 def main():
     """Main function to load, clean, and display data in a Streamlit app."""
     df = load_data(URL)
@@ -66,8 +67,14 @@ def main():
     df['Diferencial Cambiario'] = format_exchange_rate_differential(df)
     df['Última Actualización'] = format_last_update(df)
     df = df.dropna()
+
+
+    st.metric(df.loc[4][1], df.loc[4][3], df.loc[4][5])
+
+    #print(df.loc[4][1])
+
     st.dataframe(df)
-    print(df)
+    #print(df)
 
 if __name__ == "__main__":
     main()
